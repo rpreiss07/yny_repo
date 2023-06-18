@@ -1,0 +1,3 @@
+cur = SYS.UPI.1('i-7b4969b6-0db8-11ee-aeb6-8db07d38e131-item~', 'upd')
+SYS.LUPD.1(cur,'7b4969b6-0db8-11ee-aeb6-8db07d38e131-1','aa')
+SYS.LUPD.1(cur,'7b4969b6-0db8-11ee-aeb6-8db07d38e131-2','bb')
