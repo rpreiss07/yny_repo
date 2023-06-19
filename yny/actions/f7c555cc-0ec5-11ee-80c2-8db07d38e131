@@ -1,0 +1,1 @@
+{"header": {"aguid": "f7c555cc-0ec5-11ee-80c2-8db07d38e131", "cr": [], "up": {}, "ct": ["t-f7c555cc-0ec5-11ee-80c2-8db07d38e131-ToDo~/t-f7c555cc-0ec5-11ee-80c2-8db07d38e131-ToDo"], "at": "GQL_TYPE_DEF_V1", "in": []}, "body": "type ToDo { what: String, who: String, status: String }"}
