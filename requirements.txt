@@ -1,5 +1,4 @@
-jupyterlab_widgets
-ipywidgets
 altair
 pandas
+ipywidgets==7.8.1
 
